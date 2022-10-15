@@ -30,7 +30,8 @@ for more information.
 Features
 --------
 
-- Modern [GUIs](https://github.com/neovim/neovim/wiki/Related-projects#gui)
+- Modern [GUIs](https://github.com/neovim/neovim/wiki/Related-projects#gui) 
+- Hello!
 - [API access](https://github.com/neovim/neovim/wiki/Related-projects#api-clients)
   from any language including C/C++, C#, Clojure, D, Elixir, Go, Haskell, Java,
   JavaScript/Node.js, Julia, Lisp, Lua, Perl, Python, Racket, Ruby, Rust
